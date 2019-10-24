@@ -5,7 +5,7 @@
 	<title>Sorteio Megasena</title>
 </head>
 <body>
-
+<!-- tag html -->
 	<h1><b>SORTEIO DA MEGASENA</b></h1>
 
 	<hr>
@@ -20,6 +20,7 @@
 		</fieldset>
 	</form>
 
+<!-- código php -->
 	<?php
 		$dezenas = $_POST["dezenas"];
 
