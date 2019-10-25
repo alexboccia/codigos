@@ -25,7 +25,7 @@
 		$dezenas = $_POST["dezenas"];
 
 		if("$dezenas" <= 0){
-			echo "<h3 style='color:red;>Informe um valor acima de 0.</h3>";
+			echo "<h3 style='color:red;>Informe um valor maior que 0.</h3>";
 		}
 
 		echo "<br><table border=0 style='width:100%'>";
